@@ -206,5 +206,5 @@ Proyecto académico — Analítica deportiva y Machine Learning.
 
 ---
 
-⭐ Si te resulta interesante el proyecto, puedes darle una estrella al repositorio.
+
 
